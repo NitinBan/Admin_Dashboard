@@ -1,0 +1,6 @@
+{
+	"short_name": "Admin",
+	"name": "Admin Dashboard",
+	"start_url": "http://localhost:3000",
+	"display": "standalone"
+}
